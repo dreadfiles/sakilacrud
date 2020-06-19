@@ -15,7 +15,7 @@ import com.aaol.entity.City;
 import com.aaol.repository.CityRepository;
 
 @RestController
-@RequestMapping("/sakilacrudcontrollers/city")
+@RequestMapping("/sakilacrudaordonez/city")
 public class CityController {
 
 	@Autowired
